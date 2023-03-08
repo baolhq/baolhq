@@ -52,10 +52,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.baolhq.github.io"><img src="https://img.shields.io/badge/-baolhq.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/baolhq/"><img src="https://img.shields.io/badge/-baolhq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:baolhqce150509@fpt.edu.vn"><img src="https://img.shields.io/badge/-baolhqce150509@fpt.edu.vn-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/baolhq1"><img src="https://img.shields.io/badge/-baolhq1?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.baolhq.github.io"><img src="https://img.shields.io/badge/baolhq-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/baolhq/"><img src="https://img.shields.io/badge/baolhq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:baolhqce150509@fpt.edu.vn"><img src="https://img.shields.io/badge/baolhqce150509@fpt.edu.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://facebook.com/baolhq1"><img src="https://img.shields.io/badge/baolhq-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 -----
