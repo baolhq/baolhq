@@ -55,7 +55,7 @@
 <a href="https://www.baolhq.github.io"><img src="https://img.shields.io/badge/-baolhq.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/baolhq/"><img src="https://img.shields.io/badge/-baolhq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:baolhqce150509@fpt.edu.vn"><img src="https://img.shields.io/badge/-baolhqce150509@fpt.edu.vn-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/baolhq1"><img src="https://img.shields.io/badge/-@baolhq1?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/baolhq1"><img src="https://img.shields.io/badge/-baolhq1?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
