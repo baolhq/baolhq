@@ -20,6 +20,7 @@
 ![Tiled](https://img.shields.io/badge/Tiled-0D89F0?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2391AA?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FFAA33?style=for-the-badge&logo=figma&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-335577?style=for-the-badge&logo=glsl&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-CACA66?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Codium](https://img.shields.io/badge/VS_Codium-007ACC?style=for-the-badge&logo=vscodium&logoColor=white)
