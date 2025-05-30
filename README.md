@@ -14,10 +14,14 @@
 ### 🛠 &nbsp;Tools & Techs
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) 
-![Love2D](https://img.shields.io/badge/Love2D-000000?style=for-the-badge&logo=love&logoColor=FF69B4)
+![Love2D](https://img.shields.io/badge/Love2D-CC9999?style=for-the-badge&logo=love&logoColor=FF69B4)
+![Audacity](https://img.shields.io/badge/Audacity-115577?style=for-the-badge&logo=audacity&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white) 
 ![Tiled](https://img.shields.io/badge/Tiled-0D89F0?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2391AA?style=for-the-badge&logo=docker&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-335577?style=for-the-badge&logo=glsl&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-CACA66?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Codium](https://img.shields.io/badge/VS_Codium-007ACC?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
